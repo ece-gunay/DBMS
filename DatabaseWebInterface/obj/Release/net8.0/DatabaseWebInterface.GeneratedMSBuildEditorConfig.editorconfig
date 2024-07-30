@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DatabaseWebInterface
+build_property.RootNamespace = DatabaseWebInterface
+build_property.ProjectDir = C:\Users\Erkut\source\repos\DatabaseWebInterface\DatabaseWebInterface\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Erkut\source\repos\DatabaseWebInterface\DatabaseWebInterface
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/Appointment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludG1lbnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/Appointment/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludG1lbnRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/Appointment/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludG1lbnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/Appointment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludG1lbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/Customers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/MyOrder/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlPcmRlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/MyOrder/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlPcmRlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/MyOrder/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlPcmRlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/Product - Copy/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdCAtIENvcHlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/Product - Copy/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdCAtIENvcHlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/Product - Copy/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdCAtIENvcHlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/Warehouse/warehouse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2FyZWhvdXNlXHdhcmVob3VzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Erkut/source/repos/DatabaseWebInterface/DatabaseWebInterface/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-t4b5tqpgq4

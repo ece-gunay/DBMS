@@ -1,0 +1,48 @@
+﻿@page
+@model DatabaseWebInterface.Pages.Product.IndexModel
+@{
+}
+
+<br>
+<h2>List Of Products</h2>
+<a class='btn btn-primary btn-sm' href='/Product/Create'>New Product</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ProductID</th>
+            <th>ProductName</th>
+            <th>ProductPrice</th>
+            <th>WarehouseCity</th>
+            <th>WarehouseDistrict</th>
+            <th>WarehouseNeighbourhood</th>
+            <th>WarehouseStreet</th>
+            <th>WarehouseBuildingNumber</th>
+            <th>WarehouseApartmentNumber</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.listProduct)
+        {
+            <tr>
+                <td>@item.ProductID</td>
+                <td>@item.ProductName</td>
+                <td>@item.ProductPrice</td>
+                <td>@item.WarehouseCity</td>
+                <td>@item.WarehouseDistrict</td>
+                <td>@item.WarehouseNeighbourhood</td>
+                <td>@item.WarehouseStreet</td>
+                <td>@item.WarehouseBuildingNumber</td>
+                <td>@item.WarehouseApartmentNumber</td>
+
+                <td>
+                    <a class="btn btn-primary btn-sm" href="/Product/Delete?id=@item.ProductID">Delete</a>
+
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
